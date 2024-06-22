@@ -17,7 +17,7 @@ REPO_BASE_URL="https://github.com/shirohasuki"
 # 定义仓库映射关系
 declare -A REPOSITORY=(
     [Frontend]="Transformer pytorch"
-    [Midend]="RVCC"
+    [Midend]="RVCC Buddy-MLIR"
     [Backend]="ml-accelerator"
 )
 
