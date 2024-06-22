@@ -1,6 +1,6 @@
 This is a full-stack hardware and software platform for machine learning tasks.
 
-TETris is divided into three modules, front-end middle-end and back-end. Each component is decoupled from the other and inserted into this system. Here is a continuously updated list of optional sub-projects as follows.
+TETris is divided into three parts, front-end middle-end and back-end. Each component is decoupled from the other and inserted into this system. Here is a continuously updated list of optional sub-projects as follows.
 
 | sub-project   | Type       |	discription |
 |:--------      | :---------:|:--------     |
