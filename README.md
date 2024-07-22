@@ -4,6 +4,7 @@ TETris is divided into three parts, front-end middle-end and back-end. Each comp
 
 | sub-project   | Type       |	discription |
 |:--------      | :---------:|:--------     |
+| Model_zoo     | Frontend   |              |
 | Transformer   | Frontend   |              |
 | RVCC          | Midend     |              |
 | Buddy-MLIR    | Midend     |              |
