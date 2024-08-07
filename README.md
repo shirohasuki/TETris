@@ -9,6 +9,7 @@ TETris is divided into three parts, front-end middle-end and back-end. Each comp
 | RVCC          | Midend     |              |
 | Buddy-MLIR    | Midend     |              |
 | RV64_CPU      | Backend    |              |
+| RVV_GPGPU     | Backend    |              |
 | ml-accelerator| Backend    |              |
 
 ### Quick Start
